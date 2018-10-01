@@ -1,10 +1,13 @@
 # Vadym Lavorchuk
 #### front-end developer
 ___
-lavorchukvadim@gmail.com 
-+380637634802 
+lavorchukvadim@gmail.com
+
++380637634802
+
 skype: lavorchuk
->My job, basically, was to develop a client side of web applications, using technologies such as: JavaScript, HTML / CSS. Also, there is experience with the front-end frameworks React and Angular.
+
+>My job, basically, was to develop a client side of web applications, using technologies such as: JavaScript, HTML / CSS. Also, there is experience with the front-end frameworks React and Angular. In development for more than 3 years.
 
 ## Skills
  - JavaScript (ECMAScript, jQuery, React, Angular)
