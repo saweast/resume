@@ -1,6 +1,5 @@
 # Vadym Lavorchuk
 #### front-end developer
-___
 lavorchukvadim@gmail.com
 
 +380637634802
@@ -14,6 +13,17 @@ skype: lavorchuk
  - bootstrap, materializecss
  - gulp, webpack
  - other skills: i can write simple solutions on PHP and node.js
+
+## Experience
+
+ - Web developer - Home Alliance - June 2016 - December 2016
+ creating simple web-sites, wordpress customizations, sites administration
+ - PHP Developer - Richlode Solutions - December 2016 - August 2017
+ developing client customizations for SugarCRM and SuiteCRM
+ - Software Developer .Net - Richlode Solutions - August 2017 - December 2017
+ developing client customizations for Microsoft Dymamics CRM
+ - Web developer - Avezor soft - December 2017 - present
+ worked few month with Angular (created landing and project for company), React (started developing big e-commerce web-site). Other time i spend with redesigning big web-site
 
 ## Projects 
  - https://www.rostmedia.tv/ - developed with css transform and keyframes;
