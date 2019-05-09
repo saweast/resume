@@ -30,7 +30,6 @@ telegram: @saw_east
 ## Projects 
  - https://www.rostmedia.tv/ - developed with css transform and keyframes;
  - http://alutal.com.ua/ - made website adaptive for almost any device;
- - http://avezorsoft.com/ - developed with Angular 5, its a simple landing with contact form;
  - http://likibank.com/ and http://likicoin.com/ - simple websites developed with materializecss
  - for more projects contact me =)
 
