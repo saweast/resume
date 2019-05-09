@@ -30,8 +30,6 @@ telegram: @saw_east
 ## Projects 
  - https://www.rostmedia.tv/ - developed with css transform and keyframes;
  - http://alutal.com.ua/ - made website adaptive for almost any device;
- - http://likibank.com/ and http://likicoin.com/ - simple websites developed with materializecss
- - for more projects contact me =)
 
 ## Education
 - Zhytomyr Technological College - software engineering - 2010 - 2014
