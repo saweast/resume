@@ -3,7 +3,9 @@
 lavorchukvadim@gmail.com
 
 +380637634802
+
 linkedin: https://www.linkedin.com/in/vadym-lavorchuk-184905154
+
 telegram: @saw_east
 
 >My job, basically, was to develop a client side of web applications, using technologies such as: JavaScript, HTML / CSS. Also, there is experience with the front-end frameworks React, Vue and Angular. Currently, I'm a Shopify developer. I'm creating/customizing themes. Also, I supported Shopify app and created simple app for the client. In development for more than 4 years.
