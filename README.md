@@ -20,7 +20,7 @@ telegram: @saw_east
 
 ## Experience
 
- - Shopify front-end developer - December 2018 - present
+ - Shopify developer - December 2018 - present
  creating new and redesign ready themes, support customer changes and fixing functionality. Creating apps for customers.
  - Web developer - Avezor soft - December 2017 - December 2018
  worked few month with Angular (created landing and project for company), React (started developing big e-commerce web-site). Other time i spend with redesigning big web-site
