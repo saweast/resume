@@ -13,10 +13,10 @@ telegram: @saw_east
 ## Skills
  - html/css
  - javaScript (jQuery, React, Vue)
- - bootstrap, materializecss
+ - bootstrap, materializecss, polaris
  - liquid
- - gulp, webpack
- - other skills: i can write simple solutions on PHP and node.js
+ - gulp, webpack, parsel
+ - other skills: i can write simple solutions on PHP(Laravel) and node.js
 
 ## Experience
 
