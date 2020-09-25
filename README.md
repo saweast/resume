@@ -31,12 +31,6 @@ telegram: @saweast
  - *Web developer* - Home Alliance - June 2016 - December 2016
  creating simple web-sites, wordpress customizations, sites administration
 
-## Projects
- - almost all Shopify projects on NDA 
- - https://www.rostmedia.tv/ - very old, but it's my. developed with css transform and keyframes;
- - http://alutal.com.ua/ - made website adaptive for almost any device;
- - and others :D
-
 ## Education
 - a few courses
 - Zhytomyr Technological College - software engineering - 2010 - 2014
