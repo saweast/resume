@@ -8,18 +8,20 @@ linkedin: https://www.linkedin.com/in/vadym-lavorchuk-184905154
 
 telegram: @saweast
 
->My job, basically, was to develop a client side of web applications, using technologies such as: JavaScript, HTML / CSS. Also, there is experience with the front-end frameworks React, Vue and Angular. Currently, I'm a Shopify developer. I'm creating/customizing themes. Also, I supported Shopify app and created simple app for the client. In development for more than 4 years.
+>My job, basically, was to develop a client side of web applications, using technologies such as: JavaScript, HTML / CSS. Also, there is experience with the front-end frameworks. Currently, I'm a eCommerce developer. I can create/customize shopify/bigcommerce themes. Also, I supported Shopify app and created simple apps for the clients. In development for more than 6 years.
 
 ## Skills
  - html/css
  - javaScript (jQuery, React, Vue)
  - bootstrap, materializecss, polaris
  - liquid
+ - handlebars
  - gulp, webpack, parsel
  - other skills: i can write simple solutions on PHP(Laravel) and node.js
 
 ## Experience
-
+ - *eCommerce front-end developer* - December 2020 - present
+ Shopify and BigCommerce theme development/customisation
  - *Shopify developer* - December 2018 - present
  creating new and redesign ready themes, support customer changes and fixing functionality. Creating apps for customers. Mentoring newcomers.
  - *Web developer* - Avezor soft - December 2017 - December 2018
