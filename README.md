@@ -1,5 +1,5 @@
 # Vadym Lavorchuk
-#### Shopify developer
+#### SAAS Front-end Developer
 lavorchukvadim@gmail.com
 
 +380637634802
@@ -8,7 +8,7 @@ linkedin: https://www.linkedin.com/in/vadym-lavorchuk-184905154
 
 telegram: @saweast
 
->My job, basically, was to develop a client side of web applications, using technologies such as: JavaScript, HTML / CSS. Also, there is experience with the front-end frameworks. Currently, I'm a eCommerce developer. I can create/customize shopify/bigcommerce themes. Also, I supported Shopify app and created simple apps for the clients. In development for more than 6 years.
+>My job, basically, was to develop a client side of web applications, using technologies such as: JavaScript, HTML / CSS. Also, there is experience with the front-end frameworks. Currently, I'm a eCommerce developer. I can create/customize shopify/bigcommerce themes. Also, I supported Shopify app and created simple apps for the clients.
 
 ## Skills
  - html/css
